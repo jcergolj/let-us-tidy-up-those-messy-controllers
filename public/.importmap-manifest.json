@@ -1,0 +1,52 @@
+[
+    {
+        "module": "@hotwired/turbo",
+        "path": "dist/js/vendor/@hotwired--turbo-e395b6e83b0f273b44a1117de2fa64137fc69117.js",
+        "preload": true
+    },
+    {
+        "module": "laravel-echo",
+        "path": "dist/js/vendor/laravel-echo-c3c2371dbf1da22393273bbb2cba25c52922431f.js",
+        "preload": true
+    },
+    {
+        "module": "pusher-js",
+        "path": "dist/js/vendor/pusher-js-eb8355ed5e90c2f9703e9f45d8aa826a11c2af69.js",
+        "preload": true
+    },
+    {
+        "module": "el-transition",
+        "path": "dist/js/vendor/el-transition-d13f7e222a0904db370f19c2c4fad1d2d3b7f85a.js",
+        "preload": true
+    },
+    {
+        "module": "prismjs",
+        "path": "dist/js/vendor/prismjs-667c846b120f29d79fd3e60048ae6a27ff454d07.js",
+        "preload": true
+    },
+    {
+        "module": "app",
+        "path": "dist/js/app-764f9a6ef2a0246633bf015a6bb16df1a7f2dceb.js",
+        "preload": true
+    },
+    {
+        "module": "bootstrap",
+        "path": "dist/js/bootstrap-b047715c60328de6b333a4684a2ca1d144e9b254.js",
+        "preload": true
+    },
+    {
+        "module": "elements/turbo-echo-stream-tag",
+        "path": "dist/js/elements/turbo-echo-stream-tag-8b5f8927773bfcd42d30721118c4c318a909ed28.js",
+        "preload": true
+    },
+    {
+        "module": "libs",
+        "path": "dist/js/libs/index-53713713ce603f8640086997f9076f6d99e4e014.js",
+        "preload": true
+    },
+    {
+        "module": "libs/turbo",
+        "path": "dist/js/libs/turbo-0ef9c3fdd760194c5e2b90e02605fa93e807cf8a.js",
+        "preload": true
+    }
+]
